@@ -1,0 +1,28 @@
+Epoch.1
+For train. loss: 73.83898138999939, acc: 0.642386, auc: 0.605208
+For val. loss: 73.83898138999939, acc: 0.659625, auc: 0.666422
+For test. loss: 73.83898138999939, acc: 0.664289, auc: 0.670606
+Epoch.2
+For train. loss: 67.04367876052856, acc: 0.682463, auc: 0.723113
+For val. loss: 67.04367876052856, acc: 0.69666, auc: 0.750787
+For test. loss: 67.04367876052856, acc: 0.697024, auc: 0.752442
+Epoch.3
+For train. loss: 62.659529864788055, acc: 0.710734, auc: 0.769876
+For val. loss: 62.659529864788055, acc: 0.712131, auc: 0.772878
+For test. loss: 62.659529864788055, acc: 0.713303, auc: 0.775088
+Epoch.4
+For train. loss: 60.83415165543556, acc: 0.723063, auc: 0.786614
+For val. loss: 60.83415165543556, acc: 0.719288, auc: 0.782777
+For test. loss: 60.83415165543556, acc: 0.722037, auc: 0.785191
+Epoch.5
+For train. loss: 59.79387167096138, acc: 0.729197, auc: 0.795402
+For val. loss: 59.79387167096138, acc: 0.722826, auc: 0.788499
+For test. loss: 59.79387167096138, acc: 0.725954, auc: 0.790888
+Epoch.6
+For train. loss: 59.075134575366974, acc: 0.732924, auc: 0.801161
+For val. loss: 59.075134575366974, acc: 0.725447, auc: 0.792481
+For test. loss: 59.075134575366974, acc: 0.729021, auc: 0.79476
+Epoch.7
+For train. loss: 58.51420444250107, acc: 0.735824, auc: 0.805508
+For val. loss: 58.51420444250107, acc: 0.727642, auc: 0.795572
+For test. loss: 58.51420444250107, acc: 0.730942, auc: 0.797692
