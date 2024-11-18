@@ -33,7 +33,7 @@ If you find our work is useful for your research, please consider citing:
 
 @inproceedings{DisenCD2024,
 title={DisenGCD: A Meta Multigraph-assisted Disentangled  Graph Learning Framework for Cognitive Diagnosis.},
-author={Shangshang  Yang and Mingyang Chen and Ziwen Wang and Xiaoshan Yu and Panpan Zhang and Haiping Ma and ingyi Zhang},
+author={Shangshang  Yang and Mingyang Chen and Ziwen Wang and Xiaoshan Yu and Panpan Zhang and Haiping Ma and Xingyi Zhang},
 booktitle = {Thirty-Eighth Annual Conference on Neural Information Processing Systems},
 year={2024}
 }
