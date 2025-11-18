@@ -1,0 +1,17 @@
+{
+    "Assistment09":
+    {
+        "min_frequency":2,
+        "max_span":20
+    },
+    "Assistment12":
+    {
+        "min_frequency":10,
+        "max_span":10
+    },
+    "Assistment17":
+    {
+        "min_frequency":10,
+        "max_span":10
+    }
+}
