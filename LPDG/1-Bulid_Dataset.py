@@ -149,8 +149,4 @@ if __name__ == '__main__':
                     cnt += 1
                 else:
                     i+=1
-        print(i)
-        print(f'Building sequence-pattern pair dataset with size {len(data_generation_pair)}.')
-
         torch.save(data_generation_pair, output_path)
-        print("预训练数据集生成完成")
