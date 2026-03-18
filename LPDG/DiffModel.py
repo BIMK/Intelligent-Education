@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import math
-from model.dk import dk
+from model.LSTMMODEL import LSTMKT as dk
 from dpm_solver_pytorch import NoiseScheduleVP, model_wrapper, DPM_Solver
 
 noise_schedule = NoiseScheduleVP(schedule='linear')
